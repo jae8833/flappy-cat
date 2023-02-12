@@ -1,4 +1,4 @@
-# flappy-cat
+# Flappy Cat
 
 A pygame application that mimics the infamous game flappy bird. 
 
