@@ -2,7 +2,7 @@
 
 A pygame application that mimics the infamous game flappy bird. 
 
-
+<br/>
 
 ## To Run
 
@@ -12,7 +12,7 @@ A pygame application that mimics the infamous game flappy bird.
 
 3) Run the application via `python3 flappy-bird.py`
 
-
+<br/>
 
 ## Game Preview
 
