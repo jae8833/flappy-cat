@@ -16,4 +16,4 @@ A pygame application that mimics the infamous game flappy bird.
 
 ## Game Preview
 
-<img width="597" alt="FlappyCat1" src="https://user-images.githubusercontent.com/112460001/221391882-0f69ae57-ee55-4622-a5b5-3e6301d82cb3.png">
+<img width="300" alt="FlappyCat1" src="https://user-images.githubusercontent.com/112460001/221391882-0f69ae57-ee55-4622-a5b5-3e6301d82cb3.png">
